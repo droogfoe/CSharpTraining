@@ -1,0 +1,13 @@
+D:\ProgramingTraining\C#\CSharpBeginnerTutorial\Part1_Introduction\bin\Debug\netcoreapp3.1\Part1_Introduction.exe
+D:\ProgramingTraining\C#\CSharpBeginnerTutorial\Part1_Introduction\bin\Debug\netcoreapp3.1\Part1_Introduction.deps.json
+D:\ProgramingTraining\C#\CSharpBeginnerTutorial\Part1_Introduction\bin\Debug\netcoreapp3.1\Part1_Introduction.runtimeconfig.json
+D:\ProgramingTraining\C#\CSharpBeginnerTutorial\Part1_Introduction\bin\Debug\netcoreapp3.1\Part1_Introduction.runtimeconfig.dev.json
+D:\ProgramingTraining\C#\CSharpBeginnerTutorial\Part1_Introduction\bin\Debug\netcoreapp3.1\Part1_Introduction.dll
+D:\ProgramingTraining\C#\CSharpBeginnerTutorial\Part1_Introduction\bin\Debug\netcoreapp3.1\Part1_Introduction.pdb
+D:\ProgramingTraining\C#\CSharpBeginnerTutorial\Part1_Introduction\obj\Debug\netcoreapp3.1\Part1_Introduction.csprojAssemblyReference.cache
+D:\ProgramingTraining\C#\CSharpBeginnerTutorial\Part1_Introduction\obj\Debug\netcoreapp3.1\Part1_Introduction.AssemblyInfoInputs.cache
+D:\ProgramingTraining\C#\CSharpBeginnerTutorial\Part1_Introduction\obj\Debug\netcoreapp3.1\Part1_Introduction.AssemblyInfo.cs
+D:\ProgramingTraining\C#\CSharpBeginnerTutorial\Part1_Introduction\obj\Debug\netcoreapp3.1\Part1_Introduction.csproj.CoreCompileInputs.cache
+D:\ProgramingTraining\C#\CSharpBeginnerTutorial\Part1_Introduction\obj\Debug\netcoreapp3.1\Part1_Introduction.dll
+D:\ProgramingTraining\C#\CSharpBeginnerTutorial\Part1_Introduction\obj\Debug\netcoreapp3.1\Part1_Introduction.pdb
+D:\ProgramingTraining\C#\CSharpBeginnerTutorial\Part1_Introduction\obj\Debug\netcoreapp3.1\Part1_Introduction.genruntimeconfig.cache
